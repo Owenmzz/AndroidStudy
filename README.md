@@ -1,4 +1,4 @@
-<a href="./README.zh-CN.md">简体中文</a> | <a href="./README.md">English</a>
+<a href="./README.zh-CN.md">简体中文</a> | English
 
 # Zero-Basis Android Native Development Learning
 Hello everyone, I am Owen, a front-end developer. Recently, there was a demand for Android native development in my company, but the original Android developer left. In the spirit of challenging myself, I took over this project. I may not yet realize how intense the storm ahead will be, but I take this challenge very seriously.
@@ -23,6 +23,6 @@ Slowly boiling frogs will wear down passion and willpower, but facing new challe
 
 ## Week 2 - March 10, 2025 - March 16, 2025 (In Progress)
 **Learning Content:**  
-1. Chapters 4-8 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the root directory)
+1. Chapters 4-8 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
 
 
