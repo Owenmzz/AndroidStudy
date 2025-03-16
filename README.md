@@ -9,9 +9,9 @@ With my years of web front-end development experience, I believe I can overcome 
 
 Slowly boiling frogs will wear down passion and willpower, but facing new challenges every day will make one stronger!
 
-## Week 1 - March 3, 2025 - March 9, 2025
+## Week 1 - March 3, 2025 - March 9, 2025(Done)
 **Learning Content:**  
-1. Chapters 1-3 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the root directory)
+1. Chapters 1-3 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
 
 **What I Learned:**  
 1. How to create an Android project  
@@ -21,8 +21,20 @@ Slowly boiling frogs will wear down passion and willpower, but facing new challe
 5. Understanding the activity lifecycle  
 6. How to create a layout for landscape mode
 
-## Week 2 - March 10, 2025 - March 16, 2025 (In Progress)
+## Week 2 - March 10, 2025 - March 16, 2025 (Done)
 **Learning Content:**  
 1. Chapters 4-8 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
+
+**What I Learned:**  
+**Learned:**  
+1. How to handle UI preservation and restoration during device configuration changes when switching between portrait and landscape modes.  
+2. How to debug an Android application using LogCat logs and breakpoint debugging.  
+3. How to switch between different activities using Intents.  
+4. How to ensure compatibility between different Android SDK versions and how to choose the appropriate SDK when creating an application.  
+5. How to create a fragment and manage it within an activity.  
+
+## Week 3 - March 17, 2025 - March 23, 2025 (In Progress)
+**Learning Content:**  
+1. Chapters 9-13 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
 
 
