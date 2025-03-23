@@ -33,8 +33,19 @@ Slowly boiling frogs will wear down passion and willpower, but facing new challe
 4. How to ensure compatibility between different Android SDK versions and how to choose the appropriate SDK when creating an application.  
 5. How to create a fragment and manage it within an activity.  
 
-## Week 3 - March 17, 2025 - March 23, 2025 (In Progress)
+## Week 3 - March 17, 2025 - March 23, 2025  (Done)(In Progress)
 **Learning Content:**  
-1. Chapters 9-13 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
+1. Chapters 9-12 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
+
+**What I Learned:**  
+**Learned:**
+1. Created a list page using RecyclerView
+2. Created a user interface using layouts and widgets
+3. Performed data queries and display using a local database
+4. Navigation between multiple fragments
+
+## Week 4 - March 24, 2025 - March 30, 2025  (In Progress)
+**Learning Content:**  
+1. Chapters 13-16 of "Android Programming: The Big Nerd Ranch Guide (4th Edition)" (PDF located in the assets directory)
 
 
